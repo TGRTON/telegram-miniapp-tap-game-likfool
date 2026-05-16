@@ -53,18 +53,8 @@ It is built for **casual players** who enjoy tap-to-earn games and for the **Tel
 
 ## Related projects
 
-A network of related Telegram Mini Apps, bots and web tools:
+Related tools:
 
-- [Telegram Mini App Tap Game — smmtake.ru](https://github.com/DeFiTON/telegram-miniapp-tap-game-smmtake)
-- [Telegram Mini App Tap Game — stenbit.ru](https://github.com/DeFiTON/telegram-miniapp-tap-game-stenbit)
-- [Telegram Mini App Tap Game — Terminus](https://github.com/DeFiTON/telegram-miniapp-tap-game-terminus)
-- [TON Liquid Staking Platform](https://github.com/DeFiTON/ton-liquid-staking-platform)
-- [Telegram Stars CPA Tasks Bot](https://github.com/DeFiTON/telegram-stars-cpa-tasks-bot)
-- [Telegram SMM Services Bot + URL Shortener](https://github.com/DeFiTON/telegram-smm-services-bot-urlgo)
-- [Telegram Social Media Auto-Posting Bot](https://github.com/DeFiTON/telegram-social-media-autoposting-bot)
-- [Telegram ID Checker Bot](https://github.com/DeFiTON/telegram-id-checker-bot)
-- [Crypto Trading Chat Access Bot](https://github.com/DeFiTON/crypto-trading-chat-access-bot)
-- [Telegram Video Downloader Bot — SaveFastVideoFree](https://github.com/DeFiTON/telegram-video-downloader-bot-savefast)
-- [Telegram Video Downloader Bot — SaveAsVideoFree](https://github.com/DeFiTON/telegram-video-downloader-bot-saveas)
-- [Telegram Video Downloader Bot — SaveVideoPro](https://github.com/DeFiTON/telegram-video-downloader-bot-savepro)
-- [Charity Foundation Website](https://github.com/DeFiTON/charity-foundation-website)
+- [Telegram Mini App Game — smmtake](https://github.com/DeFiTON/telegram-miniapp-tap-game-smmtake)
+- [Telegram Mini App Game — stenbit](https://github.com/DeFiTON/telegram-miniapp-tap-game-stenbit)
+- [Telegram Mini App Game — terminus](https://github.com/DeFiTON/telegram-miniapp-tap-game-terminus)
