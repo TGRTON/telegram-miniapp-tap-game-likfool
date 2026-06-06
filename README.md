@@ -58,3 +58,11 @@ Related tools:
 - [Telegram Mini App Game — smmtake](https://github.com/DeFiTON/telegram-miniapp-tap-game-smmtake)
 - [Telegram Mini App Game — stenbit](https://github.com/DeFiTON/telegram-miniapp-tap-game-stenbit)
 - [Telegram Mini App Game — terminus](https://github.com/DeFiTON/telegram-miniapp-tap-game-terminus)
+
+## 🌐 Ecosystem
+
+Built by the Tegro team — an independent DeFi & Web3 ecosystem.
+
+- 🎮 Play — https://likfool.ru
+- 🏠 Open-source org — https://github.com/TegroTON
+- 🔁 DEX — https://tegro.finance · 💳 Payments — https://tegro.money
